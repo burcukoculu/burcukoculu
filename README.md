@@ -6,7 +6,7 @@
 ## I'm a Data Science Enthusiast!!
 - ✍ I’m currently a computer engineering student at IUE
 - 🌱 I'm learning **Machine Learning** topics
-- 💬 Ask me about ... data
+- 💬 Ask me about data science
 - ⚡ Fun fact: I love learning new languages(studying Japanese rn)
 - 📫 How to reach me **burcukoculu28@gmail.com**
 
