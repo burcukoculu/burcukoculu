@@ -8,7 +8,7 @@
 - 🔭 I’m currently a computer engineering student at IUE
 - 🌱 I'm studying **Machine Learning** 
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I love learning new languages ( studying Japanese rn )
+- ⚡ Fun fact: I love learning new languages(studying Japanese rn)
 - 📫 How to reach me **burcukoculu28@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burcukoculu" alt="burcukoculu" /> </p>
