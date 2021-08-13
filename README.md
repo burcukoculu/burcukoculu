@@ -4,8 +4,8 @@
 
 
 ## I'm a Data Science Enthusiast!!
-- ✍ I’m currently a computer engineering student at IUE
-- 🌱 I'm learning **Machine Learning** topics
+- ✍ I’m currently a computer engineering student at IUE and content creator at Miuul
+- 🌱 I'm learning **AWS** these days
 - 💬 Ask me about data science
 - ⚡ Fun fact: I love learning new languages(studying Japanese rn)
 - 📫 How to reach me **burcukoculu28@gmail.com**
