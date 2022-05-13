@@ -4,9 +4,9 @@
 
 
 ## I'm a Data Science Enthusiast!!
-- ✍ I’m Data Scientist at BAI and content coordinator at Miuul
+- ✍ I’m a data scientist at BAI and content coordinator at Miuul
 - 🌱 I'm learning **Apache Spark** these days
-- 💬 Ask me about data science
+- 💬 Ask me about data science 
 - ⚡ Fun fact: I love learning new languages (studying Japanese rn)
 - 📫 How to reach me **burcukoculu28@gmail.com**
 
