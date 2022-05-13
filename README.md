@@ -4,10 +4,10 @@
 
 
 ## I'm a Data Science Enthusiast!!
-- ✍ I’m currently a computer engineering student at IUE and content creator at Miuul
-- 🌱 I'm learning **Docker** these days
+- ✍ I’m Data Scientist at BAI and content coordinator at Miuul
+- 🌱 I'm learning **Apache Spark** these days
 - 💬 Ask me about data science
-- ⚡ Fun fact: I love learning new languages(studying Japanese rn)
+- ⚡ Fun fact: I love learning new languages (studying Japanese rn)
 - 📫 How to reach me **burcukoculu28@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burcukoculu" alt="burcukoculu" /> </p>
